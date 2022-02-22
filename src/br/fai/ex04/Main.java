@@ -17,11 +17,14 @@ public class Main {
 			i += 1;
 			
 		}
+		System.out.println("");
 		int k = 0;
 		do {
 			System.out.println("Valor k: " + k);
 			k += 1;
 		} while (k <= 20);
+		
+		System.out.println("");
 		
 		for(int j = 0; j <= 20; j++) {
 			System.out.println("Valor j: " + j);
