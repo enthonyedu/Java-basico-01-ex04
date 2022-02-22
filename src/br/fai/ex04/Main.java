@@ -17,6 +17,12 @@ public class Main {
 			i += 1;
 			
 		}
+		int k = 0;
+		do {
+			System.out.println("Valor j: " + k);
+			k += 1;
+		} while (k <= 20);
+		
 	}
 
 }
